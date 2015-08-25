@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\Content\obj\Zune\Release\</IntermediateDirectory>
+      <OutputDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\bin\Zune\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-11T21:34:53.6091317-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,20 @@
+#summary A quick answer to all your questions
+#labels Phase-Support
+
+= How do I use this? =
+ZNA-HD is a library containing multiple useful classes that will extend what you can do with XNA on your HD. The main goal of ZNA is to save you time developing by providing necessary classes already here for you to use.
+
+= But how do I use it? =
+First you need to download ZNA-HD. To do that click the [http://code.google.com/p/zna-hd/source/checkout source] tab. This will give you instructions on how to "checkout" the latest version of ZNA-HD. You will need some form of subversion software (Tortoise) that will make the downloading of the files easier.
+
+= I've got something to suggest! =
+Head over to the [http://code.google.com/p/zna-hd/wiki/Suggestions suggestions] page.
+
+= What can ZNA-HD do for me? =
+ZNA-HD offers a plethora of fun things to make making games easier (a dictionary containing plethora not included). For a full list of features see the [http://code.google.com/p/zna-hd/wiki/Features features] page.
+
+= I'm being attacked by monkeys! =
+Will they be your friends?
+
+= What is the question to the answer of the universe? =
+Seriously?

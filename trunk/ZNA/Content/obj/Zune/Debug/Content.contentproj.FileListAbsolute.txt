@@ -1,0 +1,2 @@
+G:\Docs\Game Creations\Zune\GeomatrixZune\GeomatrixZune\GematrixZune\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>image\button.png</Source>
+      <Name>image\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\button.xnb</Output>
+      <Time>2011-10-15T15:37:48.2681764-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\cross.png</Source>
+      <Name>image\cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\cross.xnb</Output>
+      <Time>2011-10-15T15:37:48.2691765-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\geo.png</Source>
+      <Name>image\geo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\geo.xnb</Output>
+      <Time>2011-10-09T19:03:02.4171134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\help.png</Source>
+      <Name>image\help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\help.xnb</Output>
+      <Time>2011-10-15T15:37:48.3471809-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\hex.png</Source>
+      <Name>image\hex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\hex.xnb</Output>
+      <Time>2011-10-15T15:37:48.349181-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\menu.png</Source>
+      <Name>image\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\menu.xnb</Output>
+      <Time>2011-10-15T15:37:48.3511812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\select_back.png</Source>
+      <Name>image\select_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\select_back.xnb</Output>
+      <Time>2011-10-15T15:37:48.3531813-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\Font.xnb</Output>
+      <Time>2011-10-15T22:59:04.0236232-04:00</Time>
+    </Item>
+    <Item>
+      <Source>thud.wav</Source>
+      <Name>thud</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\thud.xnb</Output>
+      <Time>2011-10-29T02:41:18.1348266-04:00</Time>
+    </Item>
+    <Item>
+      <Source>image\background.png</Source>
+      <Name>image\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\background.xnb</Output>
+      <Time>2011-11-07T20:07:01.6562139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>image\square.png</Source>
+      <Name>image\square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\image\square.xnb</Output>
+      <Time>2011-11-10T22:06:33.4513473-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T02:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T02:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T02:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T02:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T02:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T02:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-11T21:34:53.6091317-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

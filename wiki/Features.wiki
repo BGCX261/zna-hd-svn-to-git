@@ -1,0 +1,11 @@
+#summary Current features the supported by ZNA-HD
+#labels Featured,Phase-Design
+
+= Features =
+
+For a list of items currently in development check out the [Roadmap].
+
+Current Features include:
+  * Fully functioning GameObject class allow for easy resizing, moving, drawing, collision testing and more.
+  * [http://farseerphysics.codeplex.com/ Farseer Physics] converted to work with the Zune. Note: Physics is optional!
+  * Modular Design which allows coders to take advantage of specific pieces of the ZNA engine without needing to use others.

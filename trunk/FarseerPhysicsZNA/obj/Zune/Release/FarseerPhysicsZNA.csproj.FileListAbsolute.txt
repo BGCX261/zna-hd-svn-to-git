@@ -1,0 +1,2 @@
+G:\Docs\Game Creations\Zune\ZNA\ZNA\FarseerPhysicsZNA\obj\Zune\Release\ResolveAssemblyReference.cache
+G:\Docs\Game Creations\Zune\ZNA\ZNA\FarseerPhysicsZNA\obj\Zune\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

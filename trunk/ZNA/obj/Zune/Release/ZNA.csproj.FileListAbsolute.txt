@@ -1,0 +1,2 @@
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\obj\Zune\Release\ResolveAssemblyReference.cache
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNA\obj\Zune\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

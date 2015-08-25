@@ -1,0 +1,6 @@
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\bin\Zune\Debug\ZNAlib.dll
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\bin\Zune\Debug\ZNAlib.pdb
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\obj\Zune\Debug\ResolveAssemblyReference.cache
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\obj\Zune\Debug\ZNAlib.dll
+G:\Docs\Game Creations\Zune\ZNA\ZNA\ZNAlib\obj\Zune\Debug\ZNAlib.pdb

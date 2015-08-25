@@ -1,0 +1,17 @@
+#summary A list of planned additions to the engine.
+#labels Featured,Phase-Design
+
+= Introduction =
+
+This list is ranked in order of the current rank they have on my scale of importance. The higher the item is on the list the closer it is too being finished. This list will likely change constantly. Items may move up, down or disappear from it at any time.
+
+= Current Project =
+  * Rooms
+  * Finish ZObject
+
+= Roadmap =
+  * Rooms
+  * Finish ZObject class
+  * View class allowing control of what is viewed within a room
+  * Base UI classes: Buttons, Scroll Bar, Radio Buttons
+  * Particles
